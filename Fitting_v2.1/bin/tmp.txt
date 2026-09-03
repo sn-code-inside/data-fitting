@@ -1,0 +1,7 @@
+# main ===============================
+# use data file: .\Fitting.exe
+# -m 99 , TinyExpr: variable function, a1+a2*x1+a3
+ te_compile: error at position 8 in a1+a2*x1+a3
+ a1+a2*x1+a3
+        ^
+Error occurred here.

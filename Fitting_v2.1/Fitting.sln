@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fitting", "Fitting.vcxproj", "{13D9BFE0-8FAC-4752-8914-762937557903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Rel_ARXIV|Win32 = Rel_ARXIV|Win32
+		Rel_ARXIV|x64 = Rel_ARXIV|x64
+		Rel_DummyExp|Win32 = Rel_DummyExp|Win32
+		Rel_DummyExp|x64 = Rel_DummyExp|x64
+		Rel_NoSpikeRemoval|Win32 = Rel_NoSpikeRemoval|Win32
+		Rel_NoSpikeRemoval|x64 = Rel_NoSpikeRemoval|x64
+		Rel_Smooth|Win32 = Rel_Smooth|Win32
+		Rel_Smooth|x64 = Rel_Smooth|x64
+		Rel_Time_LS|Win32 = Rel_Time_LS|Win32
+		Rel_Time_LS|x64 = Rel_Time_LS|x64
+		Rel_Time|Win32 = Rel_Time|Win32
+		Rel_Time|x64 = Rel_Time|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		Rel-LOMBSCARGLE|Win32 = Rel-LOMBSCARGLE|Win32
+		Rel-LOMBSCARGLE|x64 = Rel-LOMBSCARGLE|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Debug|Win32.ActiveCfg = Debug|Win32
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Debug|Win32.Build.0 = Debug|Win32
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Debug|x64.ActiveCfg = Debug|x64
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Debug|x64.Build.0 = Debug|x64
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel_ARXIV|Win32.ActiveCfg = Rel_ARXIV|Win32
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel_ARXIV|Win32.Build.0 = Rel_ARXIV|Win32
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel_ARXIV|x64.ActiveCfg = Rel_ARXIV|x64
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel_ARXIV|x64.Build.0 = Rel_ARXIV|x64
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel_DummyExp|Win32.ActiveCfg = Rel_DummyExp|Win32
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel_DummyExp|Win32.Build.0 = Rel_DummyExp|Win32
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel_DummyExp|x64.ActiveCfg = Rel_DummyExp|x64
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel_DummyExp|x64.Build.0 = Rel_DummyExp|x64
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel_NoSpikeRemoval|Win32.ActiveCfg = Rel_NoSpikeRemoval|Win32
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel_NoSpikeRemoval|Win32.Build.0 = Rel_NoSpikeRemoval|Win32
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel_NoSpikeRemoval|x64.ActiveCfg = Rel_NoSpikeRemoval|x64
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel_NoSpikeRemoval|x64.Build.0 = Rel_NoSpikeRemoval|x64
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel_Smooth|Win32.ActiveCfg = Rel_Smooth|Win32
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel_Smooth|Win32.Build.0 = Rel_Smooth|Win32
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel_Smooth|x64.ActiveCfg = Rel_Smooth|x64
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel_Smooth|x64.Build.0 = Rel_Smooth|x64
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel_Time_LS|Win32.ActiveCfg = Rel_Time_LS|Win32
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel_Time_LS|Win32.Build.0 = Rel_Time_LS|Win32
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel_Time_LS|x64.ActiveCfg = Rel_Time_LS|x64
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel_Time_LS|x64.Build.0 = Rel_Time_LS|x64
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel_Time|Win32.ActiveCfg = Rel_Time|Win32
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel_Time|Win32.Build.0 = Rel_Time|Win32
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel_Time|x64.ActiveCfg = Rel_Time|x64
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel_Time|x64.Build.0 = Rel_Time|x64
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Release|Win32.ActiveCfg = Release|Win32
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Release|Win32.Build.0 = Release|Win32
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Release|x64.ActiveCfg = Release|x64
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Release|x64.Build.0 = Release|x64
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel-LOMBSCARGLE|Win32.ActiveCfg = Rel-LOMBSCARGLE|Win32
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel-LOMBSCARGLE|Win32.Build.0 = Rel-LOMBSCARGLE|Win32
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel-LOMBSCARGLE|x64.ActiveCfg = Rel-LOMBSCARGLE|x64
+		{13D9BFE0-8FAC-4752-8914-762937557903}.Rel-LOMBSCARGLE|x64.Build.0 = Rel-LOMBSCARGLE|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C097D8D0-4AEF-4FF7-81DE-43275C125227}
+	EndGlobalSection
+EndGlobal
